@@ -3,7 +3,7 @@
 This Java project is a simple bank management system with a graphical user interface (GUI). The application consists of 7 different frames:
 
 - **Login frame**: Allows the user to log in using their username and password, which are stored in a MySQL database.
-- **Home page frame**: Displays different buttons that allow the user to navigate to other frames, including adding a client, consulting a client, viewing all clients, inserting money, removing money, and deleting a client from the database.
+- **Home page frame**: Displays different buttons that allow the user to navigate to other frames, including adding a client, consulting a client, inserting money, removing money, and deleting a client from the database.
 - **Add client frame**: Allows the user to add a new client to the database, with fields for their ID, CIN, name, surname, email, phone number, and balance.
 - **Consult client frame**: Allows the user to search for a client in the database by their CIN, and displays their information if found.
 - **View the client frame**: Displays a table with the client informations.
