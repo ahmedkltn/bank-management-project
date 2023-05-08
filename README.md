@@ -23,4 +23,4 @@ To use this application, you'll need to have Java and MySQL installed on your co
 1. Clone this repository to your local machine.
 2. Import the MySQL database by running the "database/bank.sql" file included in the repository.
 3. Modify the "user" and "password" constants in the "mySQLConnection.java" file to match your MySQL username and password.
-4. Compile and run the project using your preferred Java development environment.
+4. Compile and run the project using Netbeans Java development environment.
