@@ -3,20 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/Supprime.java</file>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/Home.java</file>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/InputValidation.java</file>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/ClientConsult.java</file>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/AddUser.java</file>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/MySQLConnection.java</file>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/images/icons8-logout-32.png</file>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/Transaction.java</file>
             <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/Main.java</file>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/Banque-project.iml</file>
+            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/AddUser.java</file>
+            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/images/icons8-logout-32.png</file>
             <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/images/icons8_cancel_32px_1.png</file>
+            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/InputValidation.java</file>
             <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/images/background.png</file>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/Consult.java</file>
-            <file>file:/C:/Users/ahmet/Documents/NetBeansProjects/Banque-project/src/Banque/Login.java</file>
         </group>
     </open-files>
 </project-private>

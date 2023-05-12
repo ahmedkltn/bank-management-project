@@ -75,7 +75,7 @@ public class MySQLConnection {
         try {
             PreparedStatement transaction = connection.prepareStatement("UPDATE client SET solde = ? WHERE cin = ?");
             transaction.setString(1, String.valueOf(newSolde));
-            transaction.setString(1, cin);
+            transaction.setString(2, cin);
             int rowsAffected = transaction.executeUpdate();
             return rowsAffected > 0;
         } catch (SQLException e) {
